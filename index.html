@@ -117,8 +117,8 @@ $(document.head).find('#style-ui-bar').remove();</script><tw-passagedata pid="1"
 &lt;&lt;set $race_plural_options to [&quot;dragonborn&quot;,&quot;dwarves&quot;,&quot;elves&quot;,&quot;gnomes&quot;,&quot;half-elves&quot;,&quot;halflings&quot;,&quot;half-orcs&quot;,&quot;humans&quot;,&quot;tieflings&quot;,&quot;leonins&quot;,&quot;satyrs&quot;,&quot;birdfolk&quot;,&quot;bugbears&quot;,&quot;hobgoblins&quot;,&quot;kobolds&quot;,&quot;lizardfolk&quot;,&quot;orcs&quot;,&quot;tortles&quot;,&quot;changelings&quot;,&quot;werefolk&quot;]&gt;&gt;\
 &lt;&lt;set $race_plural to either($race_plural_options)&gt;&gt;\
 \
-&lt;&lt;set $army_type_options to [$race_singular_options.flat(),&quot;undead&quot;,&quot;vampire&quot;,&quot;zombie&quot;,&quot;ghost&quot;,&quot;mutant&quot;,&quot;golem&quot;]&gt;&gt;\
-&lt;&lt;set $army_type to either($army_type_options)&gt;&gt;\
+&lt;&lt;set $army_type_options to [$race_singular_options,&quot;undead&quot;,&quot;vampire&quot;,&quot;zombie&quot;,&quot;ghost&quot;,&quot;mutant&quot;,&quot;golem&quot;]&gt;&gt;\
+&lt;&lt;set $army_type to either($army_type_options.flat())&gt;&gt;\
 \
 &lt;&lt;set $band_type_singular_options to [&quot;pirate&quot;,&quot;thief&quot;,&quot;mercenary&quot;,&quot;bandit&quot;,&quot;assassin&quot;]&gt;&gt;\
 &lt;&lt;set $band_type_singular to either($band_type_singular_options)&gt;&gt;\
@@ -130,7 +130,7 @@ $(document.head).find('#style-ui-bar').remove();</script><tw-passagedata pid="1"
 &lt;&lt;set $ancient_monster1 to either($ancient_monster_options)&gt;&gt;\
 &lt;&lt;set $ancient_monster2 to either($ancient_monster_options)&gt;&gt;\
 \
-&lt;&lt;set $threat_options to [&quot;A cruel and evil king&quot;,&quot;An invading $race_singular2 tribe&quot;,&quot;A dark Witch/Warlock&quot;,&quot;A powerful undead Lich&quot;,&quot;A large $army_type army&quot;,&quot;A large, ancient $ancient_monster1&quot;,&quot;A barbarian chieftain&quot;,&quot;A cabal of Psion Masters&quot;,&quot;A rogue general&#39;s army&quot;,&quot;A lesser Demon of Hell&quot;,&quot;A band of $band_type_plural&quot;,&quot;A mythological terror&quot;]&gt;&gt;\
+&lt;&lt;set $threat_options to [&quot;A cruel and evil king&quot;,&quot;An invading $race_singular1 tribe&quot;,&quot;A dark Witch/Warlock&quot;,&quot;A powerful undead Lich&quot;,&quot;A large $army_type army&quot;,&quot;A large, ancient $ancient_monster1&quot;,&quot;A barbarian chieftain&quot;,&quot;A cabal of Psion Masters&quot;,&quot;A rogue general&#39;s army&quot;,&quot;A lesser Demon of Hell&quot;,&quot;A band of $band_type_plural&quot;,&quot;A mythological terror&quot;]&gt;&gt;\
 &lt;&lt;set $threat to either($threat_options)&gt;&gt;\
 \
 &lt;&lt;set $goal_options to [&quot;completely destroy&quot;,&quot;corrupt with dark powers&quot;,&quot;steal from another land&quot;,&quot;capture from the enemy&quot;,&quot;magically merge with&quot;,&quot;protect from harm&quot;,&quot;magically empower&quot;,&quot;craft from rare materials&quot;,&quot;alchemically synthesize&quot;,&quot;pacify through force&quot;,&quot;occupy with an army&quot;,&quot;do terrible things to&quot;]&gt;&gt;\
