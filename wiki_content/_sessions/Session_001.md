@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Episode 1: Chuckle Off"
+title: Episode 1
 in-game-date: test
 ---
 # {{page.title}}

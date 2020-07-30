@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Episode 2: Hole in One
+title: "Episode 2: Hole in One"
 in-game-date: Evening of October 30th
 ---
 # {{page.title}}
