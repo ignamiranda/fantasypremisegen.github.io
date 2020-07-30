@@ -1,2 +1,4 @@
 name: Ignacio Miranda
 markdown: kramdown
+
+collections_dir: wiki_content
