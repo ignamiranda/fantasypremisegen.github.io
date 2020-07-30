@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<title>{{ page.name }}</title>
+			<link rel="stylesheet" type="text/css" href="/css/main.css">
+		</head>
+		<body>
+			{% include navigation.html %}
+			<div class="container">
+			<h1><h1 {{page.name}}>
+      <img src={{page.photo}} alt={{page.name}}>
+      Aliases: {{page.aliases}}
+      Age: {{page.age}}
+			{{ content }}
+			
+			</div><!-- /.container -->
+			{% include footer.html %}
+		</body>
+	</html>
