@@ -6,9 +6,5 @@ title: People
 test2
 
 {% for person in site.people %}
-  <h2>
-    <a href="{{ person.url }}">
-      {{ person.name }}
-    </a>
-  </h2>
+* [{{ person.name }}]({{ person.url }})
 {% endfor %}
