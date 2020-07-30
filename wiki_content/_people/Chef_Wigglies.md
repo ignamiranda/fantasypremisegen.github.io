@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: default
 name: Chef Wigglies
 gender: Male
 ---
