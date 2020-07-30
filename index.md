@@ -4,7 +4,7 @@ title: Thorlacuin D&D Wiki
 ---
 # Previous Sessions
 ### Episode 1: Chuckle Off
-Afternoon of October 30th 🌕 2007
+**Afternoon of October 30th 🌕 2007**
 
 Three months ago, the first citizen of Holodun was murdered. Found ripped apart, his guts glistening in the morning light. Their name was Grungus Dibblins. It was concluded that wolves had gotten into the town and stormed the open doors of the Laughter House, a comedy restaurant that sits on the edge of town. Chef Wigglies, the owner of the place, was devastated. He had left the doors open to his restaurant. Grungus suffered from severe depression and came to the Laughter House for a little spark in his dull, sad life. Now, he would never laugh again.
 
@@ -31,3 +31,26 @@ As Chuck begins to lose the contest, he throws a fork at Chef to distract him. S
 They show the footage to Sheriff Cassidy, who decides to clear Chef and Al’s name. They also accuse Chuck of being a zoophilic necrophile. Farmer Boyle is not yet satisfied. He will only not press charges if Al can hunt down the beast that’s been feeding on his animals. Cassidy guilt trips Chef and Friday into voluntarily joining his hunt.
 
 Friday tucks Mardi into bed and tells him to look after his siblings.
+
+## Episode 2: Hole in One
+**Evening of October 30th 🌕**
+
+Friday, Chef, and Alamrose venture out in the woods. They take the path towards the mini-golf course, which in the past few months has been abandoned due to the increased wolf attacks. Along the way, Chef notices a wolf in the brush, and as they engage it a second one jumps out from behind. Friday and Al get hurt, but they manage to bring both wolves down. Upon killing the last wolf, Chef suddenly feels a deep connection to the wolf, as if he understands all of the ingredients that make it “wolf.” He realizes, suddenly, that he could manipulate it in its dying moment. Of course, that would be weird, so he doesn’t.
+
+Suddenly, a gnome man emerges from down the path. He introduces himself as Gober, the caretaker of Holodun’s mini-golf course. He takes them back to the course and gives them a blue moon discount, one silver piece each! They ask to see the manager, but Gober says Bossman’s been pretty sick these past few months and doesn’t always go outside. After some awkward commenting on the fact that he’s seen two ghosts today, Al included, he goes inside the office in the castle to check on him.
+
+The gang explores the attractions at the course. There’s a pirate ship where you hit a ball into a cannon that fires into a hole. Gober had warned them the cannons had squeaky hinges. Alamrose takes a god awful selfie of the three of them with the security orb he obtained from Chuckle Mansion. There’s a windmill hole, and just next to it, the final hole, which activates a hammer to slam down onto a platform above it, sending a shockwave of force out that rings the bell at the top. Al climbs up top and rings the bell with his hands, thinking it’s some sort of puzzle. It’s not.
+
+Getting worried about sunset, Chef suggests they go inside the castle to play a couple rounds. While in there, Al proposes that the boss is definitely some kind of werewolf, why else would he not come out. And the blue moon tonight? There were three murders in three months, and this is the third month! Clearly a fourth is gonna happen! Just as he’s about to go into the back room, Gober exits it, says Bossman wishes he could come out and see them but has got to stay in. Al’s suspicions are confirmed here. He tries to knock him out with the hilt of his rapier, but Gober keeps weaseling away, prolonging the beat down. He cries and whimpers as Friday joins in, shooting him with some weak frost bolts. At last, Chef’s whisk hits him on the way out, and Al downs him. Not wanting to contribute to the kill count of the Holodun mini-golf course, they go to stabilize his wounds. Chef walks outside just as the moon begins to rise. Thick hair covers his body and a snout protrudes from his face. Suddenly, Chef is transforming… into a werewolf.
+
+Friday throws Gober’s body behind a rock as Chef does his best to resist his feral urges for as long as he can, locking himself inside of the castle by barring the door with a golf club. Surely he won’t be able to get out once he’s in wolf form! Al forms a quick idea. He tells Friday to lure Chef over to the hammer hole. As Al runs up to the pirate ship to remove the cannon from its hinges, Chef finishes his transformation. Friday scales the bell tower. Wolf Chef sees the golf club barring the door and simply removes it so he can exit.
+
+He charges Friday and starts scaling the tower from the side. Friday, not trusting his strength, leaps onto the hammer from the bell. Afraid for his friend, Al shoots an arrow at Chef. It hits its mark but Chef seems not to even notice. Wolf Chef drops from the tower and starts to scale the hammer, but slips off of it onto the platform. Al loads his golf ball into the cannon and shoots it into the hole, sending the hammer, with Friday atop it, careening down onto the werewolf. Friday leaps off of it and hits him with a crossbow bolt in midair, just to show off.
+
+With an incredible display of strength, Chef lifts the hammer off of himself and makes a run for the woods. Friday tinkers with his own golf ball so it plays the sounds of a kitchen, hoping to bring human Chef back. But it fails to do the trick. Chef bolts into the woods, Alamrose running after him but quickly losing him in the dark. Friday goes to follow them, but before he does he quickly brings Gober’s body over to the boss’ room. Inside, he finds an older man with green and purple golf ball glasses, trembling in the corner of a room filled with broken vials and spilled solution. Friday hands him Gober and goes to make a dramatic exit without so much as an explanation, but the bossman runs after him, asking him what happened. When Friday mentions his friend turned into a werewolf, the boss is incredulous. Why didn’t they say something! He’s got a cure right here! He also hands Friday the keys to a magical golf cart to catch up to his friends.
+
+With his knowledge of arcane mechanisms, Friday is able to telepathically steer the cart through the woods towards Chef. Along the way he finds Alamrose and picks him up. They see Chef, werewolf as ever, sprinting through the forest to their right, and as Friday tries to ram into him he fucks up and spins out by hitting a tree. As the golf cart rapidly spins about, Alamrose dips an arrow into a vial of the cure Friday got and shoots a perfect shot at Chef. The arrow downs him, and when the cart comes to a stop they get out and feed him the rest of the cure. The three lie there together, trembling in the cold of an October night.
+
+## Episode 3: The Trial
+**Evening of October 30th 🌕 to morning of October 31st**
+
