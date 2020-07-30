@@ -6,26 +6,12 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
-			<nav>
-	    		<ul>
-	        		<li><a href="/">Home</a></li>
-		        	<li><a href="/people">People</a></li>
-				<li><a href="/groups">Groups</a></li>
-				<li><a href="/places">Places</a></li>
-				<li><a href="/items">Items</a></li>
-				<li><a href="/Concepts">Groups</a></li>
-	    		</ul>
-			</nav>
+			{% include navigation.html %}
 			<div class="container">
 			
 			{{ content }}
 			
 			</div><!-- /.container -->
-			<footer>
-	    		<ul>
-	        		<li><a href="mailto:fakeemail@gmail.com">email</a></li>
-	        		<li><a href="https://github.com/fakegithub">github.com/fakegithub</a></li>
-				</ul>
-			</footer>
+			{% include footer.html %}
 		</body>
 	</html>
