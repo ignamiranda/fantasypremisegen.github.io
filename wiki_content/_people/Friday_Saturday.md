@@ -1,5 +1,5 @@
 ---
-layout: person
+layout: default
 name: Friday Saturday
 gender: Male
 ---
