@@ -3,7 +3,7 @@ layout: default
 title: Episode 1: Chuckle Off
 in-game-date: Afternoon of October 30th, 2007
 ---
-## {{page.title}}
+# {{page.title}}
 
 **{{page.in-game-date}}**
 
