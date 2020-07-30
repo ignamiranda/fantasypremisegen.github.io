@@ -1,10 +1,11 @@
 ---
 layout: default
 title: Episode 2: Hole in One
+in-game-date: Evening of October 30th
 ---
 # {{page.title}}
 
-**Evening of October 30th 🌕**
+**{{page.in-game-date}}**
 
 Friday, Chef, and Alamrose venture out in the woods. They take the path towards the mini-golf course, which in the past few months has been abandoned due to the increased wolf attacks. Along the way, Chef notices a wolf in the brush, and as they engage it a second one jumps out from behind. Friday and Al get hurt, but they manage to bring both wolves down. Upon killing the last wolf, Chef suddenly feels a deep connection to the wolf, as if he understands all of the ingredients that make it “wolf.” He realizes, suddenly, that he could manipulate it in its dying moment. Of course, that would be weird, so he doesn’t.
 
