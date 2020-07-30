@@ -5,5 +5,5 @@ title: Session Summaries
 # {{ page.title }}
 
 {% for session in site.sessions %}
-* [{{ session.title }}]({{ session.url }}) - ({{ session.in-game-date }}) test
+* [{{ session.title }}]({{ session.url }}) - ({{ session.in-game-date }}) test2
 {% endfor %}
