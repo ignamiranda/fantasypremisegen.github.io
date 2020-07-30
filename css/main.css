@@ -35,7 +35,6 @@ p {
 img.resize {
   height: auto; 
   width: auto;
-  min-width:5%;
   max-width:5%;
 }
 footer {
