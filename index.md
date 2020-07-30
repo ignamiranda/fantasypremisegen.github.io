@@ -2,5 +2,5 @@
 layout: default
 title: Ignacio Miranda
 ---
-# Hi there, I'm Ignacio Miranda!</h1>
+# Hi there, I'm Ignacio Miranda!
 Gamer extraordinaire!
