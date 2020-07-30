@@ -8,7 +8,8 @@ title: Thorlacuin D&D Wiki
 
 **Afternoon of October 30th 🌕 2007**
 
-![full-moon](https://i.imgur.com/6AaXKxU.png "Full Moon")
+![full-moon]()
+<img src="https://i.imgur.com/6AaXKxU.png "Full Moon"" max-width=25% alt="Full Moon">
 
 Three months ago, the first citizen of Holodun was murdered. Found ripped apart, his guts glistening in the morning light. Their name was Grungus Dibblins. It was concluded that wolves had gotten into the town and stormed the open doors of the Laughter House, a comedy restaurant that sits on the edge of town. Chef Wigglies, the owner of the place, was devastated. He had left the doors open to his restaurant. Grungus suffered from severe depression and came to the Laughter House for a little spark in his dull, sad life. Now, he would never laugh again.
 
