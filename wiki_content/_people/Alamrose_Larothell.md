@@ -6,6 +6,6 @@ class: Rogue
 ---
 # {{page.name}}
 
-Race: {{page.race}}
+Race: Soulbound Half-Elf Specter
 
-Class: {{page.class}}
+Class: Phantom Rogue
