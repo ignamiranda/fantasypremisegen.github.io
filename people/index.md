@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Thorlacuin D&D Wiki
+title: People
 ---
 # {{ page.title }}
 
