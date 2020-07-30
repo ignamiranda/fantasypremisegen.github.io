@@ -6,7 +6,7 @@ title: Thorlacuin D&D Wiki
 
 ## Episode 1: Chuckle Off
 
-**Afternoon of October 30th 🌕 2007**
+**Afternoon of October 30th, 2007**
 
 ![](https://i.imgur.com/6AaXKxU.png)
 
