@@ -5,5 +5,7 @@ title: Places
 # {{ page.title }}
 
 {% for place in site.places %}
-* [{{ place.name }} test]({{ place.url }})
+* [{{ place.name }}]({{ place.url }})
 {% endfor %}
+
+TEST
