@@ -21,7 +21,7 @@ Accidentally ritually sacrificed by a cult of elf-worshipping fanatics.
 
 ## Residences
 
-* [Matha]({% link _places/Matha.md %})
+* [Matha]({% link _places/Matha.html %})
 
 ## Notable Possessions
 
