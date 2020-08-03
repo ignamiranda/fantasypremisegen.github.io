@@ -2,20 +2,25 @@
 layout: person
 name: Alamrose Larothell
 gender: Male
-age: 27
 ---
 # {{page.name}}
 
 ## General Info
 
-**Aliases:**
+** Class:** Phantom Rogue
 
-**Age:** {{page.age}}
+**Race:** Soulbound Half-Elf Specter
 
-**Gender:** {{page.gender}}
+**Age:** 25
+
+**Languages:** Common, Elvish, Thieves' Cant
+
+Accidentally ritually sacrificed by a cult of elf-worshipping fanatics.
 
 ## Memberships
 
 ## Residences
 
-## Connections
+## Notable Possessions
+
+* Chuck’s Security Orb
