@@ -4,8 +4,6 @@ title: Items
 ---
 # {{ page.title }}
 
-{% for itemin site.items %}
+{% for item in site.items %}
 * [{{ item.name }}]({{ item.url }})
 {% endfor %}
-
-TEST

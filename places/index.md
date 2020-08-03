@@ -7,5 +7,3 @@ title: Places
 {% for place in site.places %}
 * [{{ place.name }}]({{ place.url }})
 {% endfor %}
-
-TEST
